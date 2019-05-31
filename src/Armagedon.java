@@ -1,30 +1,6 @@
 
-public class Armagedon {
+public class Armagedon extends Catastrofes {
 
-	static class Muerte{
-		String nombre = "Muerte";
-		public Muerte() {super();};
-		public String Invocar() {return "El fin se acerca, soy: ";};
-	}
-	
-	static class Guerra{
-		String nombre = "Guerra";
-		public Guerra() {super();};
-		public String Invocar() {return "El fin se acerca, soy: ";};
-	}
-	
-	static class Peste{
-		String nombre = "Peste";
-		public Peste() {super();};
-		public String Invocar() {return "El fin se acerca, soy: ";};
-	}
-	
-	static class Hambre{
-		String nombre = "Hambre";
-		public Hambre() {super();};
-		public String Invocar() {return "El fin se acerca, soy: ";};
-	}
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
