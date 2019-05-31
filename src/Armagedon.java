@@ -8,6 +8,7 @@ public class Armagedon extends Catastrofes {
 		Guerra jinete2 = new Guerra();
 		Peste jinete3 = new Peste();
 		Hambre jinete4 = new Hambre();
+		Muerte jinete5 = new Muerte();
 		System.out.print(jinete1.Invocar());
 		System.out.println(jinete1.Invocar());
 		System.out.print(jinete2.Invocar());
